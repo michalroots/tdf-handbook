@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](web/tdf-handbook3/about.md)
+* [About](about.md)
 * [Governance](governance.md)
 * [Participate](/participate/README.md)
 	* [Vist TDF](/participate/visit.md)
