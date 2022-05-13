@@ -19,3 +19,4 @@ Here's the list compiling relevant documents for reference.
 
 ## Other
 - [Miro Board](https://miro.com/app/board/o9J_loW09uE=/)
+- Brand assets

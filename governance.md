@@ -7,7 +7,7 @@ Traditional Dream Factory is the first land-based DAO in Europe.
 
 We're at the frontier of new ways of organising, and there are not many blueprints to follow yet. Here's how we are setting it up (in progress).
 
-*Note: This is a birds-eye overview. For details consult respective [documents](/documents.md)*
+*Note: This is a birds-eye overview. For details consult respective [documents](/documents.md)*.
 
 ## Legal Structure
 TDF is the first **Land Base** within **OASA Network**.
