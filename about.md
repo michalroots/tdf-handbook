@@ -28,8 +28,6 @@ If you'd like to get updates from us, we invite you to join our [OASA Newsletter
 
 You can also follow us on [twitter](https://twitter.com/tdfinyourdreams/), [instagram](https://www.instagram.com/traditionaldreamfactory/), and [telegram](https://t.me/+7yBqlNOMbRtlZmFh).
 
-==Discord?==
-
 ## Contact
 Tell us about your dream: traditionaldreamfactory {at} gmail {dot} com
 
