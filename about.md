@@ -3,7 +3,7 @@ description: A handbook for Dreamers - come build with us, play with us, grow wi
 ---
 
 # Traditional Dream Factory Handbook
-![Traditional Dream Factory Logo](../.gitbook/assets/tdf-sheep.png)
+![Traditional Dream Factory Logo](../.gitbook/assets/tdf-sheep.jpg)
 
 ## Welcome to the Traditional Dream Factory
 **A playground for living and creating together, and a regenerative living & creation collective based in Alentejo, Portugal.**
