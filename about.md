@@ -8,7 +8,7 @@ description: A handbook for Dreamers - come build with us, play with us, grow wi
 ## Welcome to the Traditional Dream Factory
 **A playground for living and creating together, and a regenerative living & creation collective based in Alentejo, Portugal.**
 
-[Traditional Dream Factory](https://traditionaldreamfactory.com/) is the first village in the [Oasa network](https://oasa.co) - a network of co-owned regenerative villages on a mission to acquire ==100k hectars== of land to regenerate.
+[Traditional Dream Factory](https://traditionaldreamfactory.com/) is the first village in the [Oasa network](https://oasa.co) - a network of co-owned regenerative villages on a mission to acquire 100k hectars of land to regenerate.
 
 TDF is the first prototype - a village being built by Dreamers of different origins: engineers, artists, permaculturists, scientists, innovators, nomads.
 
@@ -19,7 +19,7 @@ Come build with us, play with us, grow with us.
 ## About this Handbook
 This handbook aims to provide you with a clear overview of how TDF functions and how you could get involved.
 
-Note: TDF is evolving fast. If you notice that something is missing or out of date, reach out ==to us / documentation Steward== or make a suggestion directly in our ==github repo==
+Note: TDF is evolving fast. If you notice that something is missing or out of date, reach out to our documentation Steward or make a suggestion directly in our github repo.
 
 For more detailed information check out our [Pink Paper](https://docs.google.com/document/d/177JkHCy0AhplsaEEYpFHBsiI6d4uLk0TgURSKfBIewE/mobilebasic).
 
