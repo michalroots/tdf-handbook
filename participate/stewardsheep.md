@@ -6,7 +6,7 @@ description:
 
 The stewards oversee the evolution of TDF according to the masterplan with the support of the core team. 
 
-![Stewards <> Circles](../.gitbook/assets/tdf-stewards-circles.jpeg)
+![Stewards <> Circles](../.gitbook/assets/tdf-stewards-circles.jpg)
 
 The stewards are members that already experienced TDF in multiple facets (building, cooking, hosting, events, etc) and are willing to tend and grow the playground and evolutionary experiment that TDF aims to be.
 

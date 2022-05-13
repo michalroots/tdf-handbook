@@ -6,7 +6,7 @@ description: How to get involved in steering TDF ⛵️
 
 **Circles are decentralised groups of Members who take responsibility for a certain domain.** Circles work together with the team of Stewards on the ground to implement the Masterplan, as shown on the graph below:
 
-![Stewards <> Circles](../.gitbook/assets/tdf-stewards-circles.jpeg)
+![Stewards <> Circles](../.gitbook/assets/tdf-stewards-circles.jpg)
 
 At the moment TDF includes the following circles:
 
