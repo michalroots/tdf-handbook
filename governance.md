@@ -45,9 +45,10 @@ We're using the following technology:
 
 - [Closer](https://closer.earth/)  - events, payments
 - [Discord](https://discord.com/) - internal communication
+- [Notion](https://notion.so) - knowledge management
 - [Google Drive](https://www.google.com/drive/) - knowledge management
 - [Miro](https://miro.com/) - knowledge management
 - [Airtable](https://airtable.com/) - data management, forms 
-- [Gitbook](https://www.gitbook.com/) - open-source knowledge management
-- [Nestr](https://nestr.io/) (ongoing experiment ⏳) - task management
+- [Gitbook](https://www.gitbook.com/) - open-source documentation
+
 - [Snapshot](https://snapshot.org/#/) (on roadmap ⏳) - decision making within the DAO

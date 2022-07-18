@@ -19,7 +19,7 @@ Come build with us, play with us, grow with us.
 ## About this Handbook
 This handbook aims to provide you with a clear overview of how TDF functions and how you could get involved.
 
-Note: TDF is evolving fast. If you notice that something is missing or out of date, reach out to our documentation Steward or make a suggestion directly in our github repo.
+Note: TDF is evolving fast. If you notice that something is missing or out of date, reach out to our [Documentation Steward](https://twitter.com/michalkorzonek) or make a suggestion directly in our [github repo](https://github.com/michalroots/tdf-handbook).
 
 For more detailed information check out our [Pink Paper](https://docs.google.com/document/d/177JkHCy0AhplsaEEYpFHBsiI6d4uLk0TgURSKfBIewE/mobilebasic).
 
