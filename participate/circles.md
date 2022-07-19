@@ -20,7 +20,12 @@ Members step into the circle for a period of 3.5 months, aligned with the Stewar
 
 Members contributing their energy within a Circle get compensated with tokens.
 
-For more information about each Circle and how to join, please consult our [Pink Paper](https://docs.google.com/document/d/177JkHCy0AhplsaEEYpFHBsiI6d4uLk0TgURSKfBIewE/mobilebasic#h.slung3isnj8q)
+For more information about each Circle and how to join, please consult our [Pink Paper](https://docs.google.com/document/d/177JkHCy0AhplsaEEYpFHBsiI6d4uLk0TgURSKfBIewE/mobilebasic#h.slung3isnj8q).
+
+You can view our current 
+
+- [Sobol Board](https://sobol.io/d/public/tdf/circles)- visualises roles within circles
+
 
 
 
