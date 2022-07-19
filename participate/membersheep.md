@@ -27,7 +27,7 @@ You'll need to:
 - fill in the application form below (which includes signing of the MemberSHEEP Agreement)
 - receive three vouches from existing members
 
-👉 [Apply to become a member]([https://airtable.com/shrqS3eMejx7KW2Jj](https://airtable.com/shrqS3eMejx7KW2Jj)) 👈
+👉 [Apply to become a member](https://airtable.com/shrqS3eMejx7KW2Jj) 👈
 
 For more details, see our [TDF MemberSHEEP & Vouching Process](https://docs.google.com/document/d/1bvRoYjUjQmu3mfNMAlCE0e4T6A5Rgzt7CFI1i4zT0MA/edit).
 
