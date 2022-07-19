@@ -23,7 +23,7 @@ Each Land Based DAO within OASA Network issues a **token** (in TDF we call it *C
 
 Every *Member* who also holds *Carrots* can participate in the governance of TDF as explained in our [whitepaper](https://docs.google.com/document/d/12DZovTtv3upFhDgRQuDj6pazV87MRv_I8PLnVxJufFQ/edit).
 
-ℹ️  We're aiming to pre-launch Carrots in May 2022.
+ℹ️  We're aiming to pre-launch Carrots in December 2022.
 
 ## Decision Making
 TDF operates as a Do-ocracy:
