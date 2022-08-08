@@ -6,6 +6,8 @@ description: A list of relevant documents
 
 Here's the list compiling relevant documents for reference.
 
+*Note: some of the documents are for internal use only.*
+
 - [Pink Paper](https://docs.google.com/document/d/177JkHCy0AhplsaEEYpFHBsiI6d4uLk0TgURSKfBIewE/mobilebasic#h.slung3isnj8q) - TDF's core operating document
 - [Principles of Regeneration and Land Stewardship](https://docs.google.com/document/d/1Ocv9rtRkDxsJmeRxrL6mV07EyWcHc2YqfN8mHoylO2E/edit?usp=sharing) - regeneration is at the core of all of our activities
 - [OASA Whitepaper](https://docs.google.com/document/d/12DZovTtv3upFhDgRQuDj6pazV87MRv_I8PLnVxJufFQ/edit) - overview of OASA and our tokens
